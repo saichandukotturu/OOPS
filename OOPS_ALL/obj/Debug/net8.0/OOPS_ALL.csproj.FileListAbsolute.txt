@@ -1,0 +1,14 @@
+D:\C2C\OOPS\OOPS_ALL\bin\Debug\net8.0\OOPS_ALL.exe
+D:\C2C\OOPS\OOPS_ALL\bin\Debug\net8.0\OOPS_ALL.deps.json
+D:\C2C\OOPS\OOPS_ALL\bin\Debug\net8.0\OOPS_ALL.runtimeconfig.json
+D:\C2C\OOPS\OOPS_ALL\bin\Debug\net8.0\OOPS_ALL.dll
+D:\C2C\OOPS\OOPS_ALL\bin\Debug\net8.0\OOPS_ALL.pdb
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.AssemblyInfoInputs.cache
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.AssemblyInfo.cs
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.csproj.CoreCompileInputs.cache
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.dll
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\refint\OOPS_ALL.dll
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.pdb
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\OOPS_ALL.genruntimeconfig.cache
+D:\C2C\OOPS\OOPS_ALL\obj\Debug\net8.0\ref\OOPS_ALL.dll
